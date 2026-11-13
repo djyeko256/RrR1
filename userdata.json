@@ -10,5 +10,12 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
+    },
+    
+    {
+        "device_id": "402e8a7786d3612e",
+        "key": "yeko2026",
+        "expirydate": "15-06-2030",
+        "Allowoffline": false
     }
 ]
